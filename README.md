@@ -54,5 +54,7 @@ purchases or interacts.
 Finding the overall customers details using table visualization.
 
 
+![Alt Text](IMG_20250302_183125.jpg)
 ![Alt Text]()
+![Alt Text](IMG_20250302_183125.jpg)
 
