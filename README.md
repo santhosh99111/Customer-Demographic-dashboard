@@ -55,5 +55,3 @@ Finding the overall customers details using table visualization.
 
 
 
-
-purchases or interacts
